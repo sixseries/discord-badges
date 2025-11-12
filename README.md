@@ -13,4 +13,4 @@ If you don't want to download the files you can use [jsdelivr](https://jsdelivr.
 
 For example `https://cdn.jsdelivr.net/gh/merlinfuchs/discord-badges/PNG/bug_hunter_level_2.png` resolves to:
 
-![Bug Hunter Level 2](https://cdn.jsdelivr.net/gh/merlinfuchs/discord-badges/PNG/bug_hunter_level_2.png)
+![Bug Hunter Level 2](https://cdn.jsdelivr.net/gh/sixseries/discord-badges/PNG/bug_hunter_level_2.png)
